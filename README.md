@@ -19,8 +19,7 @@ A highly-motivated person who is eager to learn something new, willing to work h
 <p align="left">
 <a href="https://github.com/bagasrmdhn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasrmdhn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrgvnn&layout=compact&langs_count=8&theme=algolia"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasrmdhn&layout=compact)](https://github.com/bagasrmdhn/github-readme-stats)
+  <img height="180em" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=bagasrmdhn&layout=compact"/>
 </a>
 </p>
 
